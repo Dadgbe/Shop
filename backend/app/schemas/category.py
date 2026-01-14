@@ -15,4 +15,4 @@ class CategoryResponse(CategoryBase):
 
 
     class Config:
-        form_attributes = True
+        from_attributes = True
